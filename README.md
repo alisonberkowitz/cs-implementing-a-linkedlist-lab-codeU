@@ -185,7 +185,7 @@ Now it's your turn:
 *  Last one: fill in the body of `remove`.  [The documentation is here](https://docs.oracle.com/javase/7/docs/api/java/util/List.html#remove(int)).  When you finish this one, all tests should pass.
 
 
-*  Once you have your implementation working, compare it to mine, which you can find by checking out the solutions branch of the repo, or [you can read it on GitHub](https://TODO: add_this_later).
+*  Once you have your implementation working, compare it to mine, which you can find by checking out the solutions branch of the repo, or [you can read it on GitHub](https://github.com/learn-co-students/cs-implementing-a-linkedlist-lab-codeU/tree/solution/).
 
 
 
